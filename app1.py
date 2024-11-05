@@ -29,6 +29,6 @@ if st.button('양수일까 음수일까?'):
        if a > 0:
             st.write('양수야')
        elif a < 0:
-             st.write('음수야')
+            st.write('음수야')
        else:
             st.write('0입니다.')
